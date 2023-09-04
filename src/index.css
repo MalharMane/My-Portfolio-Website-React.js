@@ -339,8 +339,8 @@ b{
 }
 
 .SkillBox{
-  width: max(15%,150px);
-  height: 150px;
+  width: max(15%,110px);
+  height: 110px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -389,24 +389,24 @@ b{
   padding: 10px 0;
   letter-spacing: 0.4px;
   font-size: 36px;
-  margin-top: 100px;
+  margin-top: 80px;
 }
 
 .project{
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  margin: 25px 5%;
+  margin: 25px 1%;
 }
 
 .projectBox{
-  width: 350px;
+  width: 340px;
   border: 3px solid #431f47;
   border-radius: 5px;
   text-align: center;
-  padding: 15px;
+  padding: 10px;
   letter-spacing: 0.5px;
-  font-size: 18px;
+  font-size: 16px;
   line-height: 22px;
   
   margin: 0px 25px 50px 25px;
